@@ -6,10 +6,6 @@ This README provides an overview of a simple Java application named `helloworld`
 
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
-
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
